@@ -1,7 +1,7 @@
 # Welcome to Qwasar Pizza Shop
 ***
 
-### TODO
+## TODO
 
 #### project
 - implement html / css interface with static js
